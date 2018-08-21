@@ -1,6 +1,6 @@
 # vue-jsx-sample
 
-> A Vue.js project
+> sample code for blog [vue jsx 实践](https://www.njleonzhang.com/2018/08/21/vue-jsx.html)
 
 ## Build Setup
 

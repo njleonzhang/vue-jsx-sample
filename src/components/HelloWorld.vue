@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    I am write using template, see the version by <a href='/#/jsx'>jsx</a>
+    I am write using template, see the version by <a href='#/jsx'>jsx</a>
     <div class='wrapper'>
       <div class='content' v-if='hello'>hello</div>
     </div>

@@ -16,7 +16,7 @@ export default {
   render () {
     return (
       <div class='hello'>
-        I am write using jsx, see the version by <a href='/#/'>template</a>
+        I am write using jsx, see the version by <a href='#/'>template</a>
 
         <div class='wrapper'>
           {
